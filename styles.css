@@ -1,0 +1,35 @@
+.award {
+    color: lavender;
+    font-family: 'Courgette', cursive;
+}
+
+img {
+    height: 350px;
+}
+
+.best {
+    border: 4px groove black;
+}
+
+.award {
+    color: lavender;
+    border: 10px groove black;
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.turtle {
+    border: 4px groove black;
+}
+
+.butterfly {
+    border: 4px dotted black;
+}
+
+.the {
+    border: 4px dotted black;
+}
+.award{background-color:black;
+}
